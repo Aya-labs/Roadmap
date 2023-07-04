@@ -25,7 +25,7 @@ Read the README: It contains important information about the project, including 
 
 If you have an idea, suggestion, or a bug report related to the project roadmap, you can create an issue to start a discussion. Here's how you can do it:
 
-Go to the project's repository on GitHub(https://github.com/Aya-labs/roadmap)
+Go to the project's repository on GitHub https://github.com/Aya-labs/roadmap
 
 Click on the "Issues" tab near the top of the repository page.
 
