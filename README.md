@@ -21,7 +21,8 @@ Familiarity with the project: Take some time to explore the project's codebase, 
 
 Read the README: It contains important information about the project, including installation instructions, development guidelines, and contribution guidelines.
 
-Creating an Issue
+### Creating an Issue
+
 If you have an idea, suggestion, or a bug report related to the project roadmap, you can create an issue to start a discussion. Here's how you can do it:
 
 Go to the project's repository on GitHub.
@@ -38,7 +39,8 @@ Click on the "Submit new issue" button to create the issue.
 
 Congratulations! You have successfully created an issue. The community and maintainers will review it, provide feedback, and start discussions related to the issue.
 
-Contributing to Existing Issues
+### Contributing to Existing Issues
+
 If you find an issue in the repository that you want to contribute to, follow these steps:
 
 Read the issue description carefully, as well as any previous comments or discussions to understand the context.
@@ -51,7 +53,8 @@ Engage in a constructive discussion with others in the comments section. Be resp
 
 If you believe you can address the issue yourself, you can fork the repository, create a new branch, make your changes, and submit a pull request. Refer to the project's contribution guidelines for more information on pull requests.
 
-Issue Workflow
+### Issue Workflow
+
 To maintain an organized and efficient issue management process, we follow a standardized workflow:
 
 Open: An issue is opened by a community member or maintainer and is awaiting review and discussion.
@@ -77,7 +80,8 @@ Once the issue is closed, it will be marked as resolved in the issue tracker, an
 
 Remember, closing an issue does not mean the end of the discussion. If further questions or concerns arise, feel free to reopen the issue and continue the conversation.
 
-Code of Conduct
+### Code of Conduct
+
 When participating in discussions and contributing to the project roadmap, we kindly ask you to adhere to our Code of Conduct. The Code of Conduct outlines the expected behavior and ensures a safe and inclusive environment for all participants. It promotes respect, open-mindedness, and professionalism.
 
 You can find our Code of Conduct in the repository's root directory or by visiting CODE_OF_CONDUCT.md.
