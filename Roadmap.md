@@ -47,7 +47,7 @@ Read the issue description carefully, as well as any previous comments or discus
 
 If you have something valuable to add, click on the comment box at the bottom of the issue page and write your comment.
 
-If you have a solution or suggestion, provide a clear and detailed explanation. You can also attach relevant code examples or screenshots if necessary.
+If you have a solution or suggestion, provide a clear and detailed explanation. You can also attach relevant examples or screenshots if necessary.
 
 Engage in a constructive discussion with others in the comments section. Be respectful of others' opinions and provide helpful feedback.
 
@@ -65,7 +65,8 @@ In Progress: A contributor has been assigned to work on the issue and is activel
 
 Resolved: The issue has been addressed, either by the original contributor or someone else in the community.
 
-Closing an Issue
+### Closing an Issue
+
 Once an issue has been resolved, it can be closed. Here's how:
 
 If you have the necessary permissions, click on the "Close issue" button on the issue page.
