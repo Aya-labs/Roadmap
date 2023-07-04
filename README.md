@@ -17,7 +17,7 @@ Before you start contributing, make sure you have the following:
 
 A GitHub account: If you don't have one, you can sign up for free at https://github.com/join.
 
-Familiarity with the project: Take some time to explore the project's codebase, documentation, and existing issues to get an understanding of the project's goals and roadmap.
+Familiarity with the project: Take some time to explore the existing issues to get an understanding of the project's goals and roadmap.
 
 Read the README: It contains important information about the project, including installation instructions, development guidelines, and contribution guidelines.
 
