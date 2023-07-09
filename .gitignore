@@ -1,0 +1,117 @@
+# Ignore compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore executables
+*.exe
+*.out
+*.app
+
+# Ignore library files
+*.a
+*.lib
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment-specific files
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Ignore package manager directories
+node_modules/
+vendor/
+
+# Ignore build output directories
+build/
+dist/
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+
+# Ignore OS-generated files
+ehthumbs.db
+Icon?
+ehthumbs_vista.db
+Desktop.ini
+
+# Ignore backup files
+*~
+*.bak
+*.backup
+*.old
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore specific file types
+*.log
+*.lock
+*.zip
+*.rar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Ignore sensitive or personal information
+config.ini
+secrets.yml
+passwords.txt
+
+# Ignore editor backup files
+*~
+*.swp
+*.swo
+
+# Ignore generated documentation
+/doc/
+
+# Ignore compiled binaries
+/bin/
+/target/
+
+# Ignore temporary files created during development
+.tmp/
+.temp/
+
+# Ignore IDE-specific files and directories
+.eclipse/
+.nbproject/
+.idea/
+
+# Ignore configuration files with sensitive data
+config.yml
+database.yml
+secrets.json
+
+# Ignore personal settings
+.settings/
+
+# Ignore log files in specific directories
+/logs/
+
+# Ignore cache directories
+/cache/
+/.sass-cache/
+
+# Ignore generated files from build systems
+Makefile
+CMakeLists.txt
+
+# Ignore virtual environment directories
+venv/
+env/
