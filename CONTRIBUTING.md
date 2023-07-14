@@ -1,6 +1,8 @@
-# Ayalabs Roadmap Contribution Guide
+# Contribution Guide
 
-Welcome to our project! We appreciate your interest in contributing to our roadmap using GitHub Issues. This guide will walk you through the process of making contributions and help you understand how to effectively collaborate with the community.
+## Introduction
+
+We appreciate your interest in contributing to projects in our organisation. This guide will walk you through the process of create issues and contributing to repositories to help effectively collaborate with the community.
 
 ## Table of Contents
 
@@ -9,7 +11,12 @@ Welcome to our project! We appreciate your interest in contributing to our roadm
 3. Contributing to Existing Issues
 4. Issue Workflow
 5. Closing an Issue
-6. Code of Conduct
+6. Fork this repository
+7. Clone the repository Create a branch
+8. Make necessary changes and commit those changes
+9. Push changes to GitHub
+10. Submit your changes for review
+11. Where to go from here?
 
 ### Getting Started
 
@@ -25,7 +32,7 @@ Read the README: It contains important information about the project, including 
 
 If you have an idea, suggestion, or a bug report related to the project roadmap, you can create an issue to start a discussion. Here's how you can do it:
 
-Go to the project's repository on GitHub https://github.com/Aya-labs/roadmap
+Go to any of Ayalabs project repository on GitHub https://github.com/Aya-labs
 
 Click on the "Issues" tab near the top of the repository page.
 
@@ -79,9 +86,11 @@ If applicable, reference any relevant commits, pull requests, or documentation t
 
 Once the issue is closed, it will be marked as resolved in the issue tracker, and it will be removed from the active issues list.
 
-Remember, closing an issue does not mean the end of the discussion. If further questions or concerns arise, feel free to reopen the issue and continue the conversation.
+Remember, closing an issue does not mean the end of the discussion. If further questions or concerns arise, feel free to reopen the issue and continue
 
-# Contributing to other repositories in Ayalabs Organisation
+the conversation.
+
+# Contributing to projects
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
@@ -198,20 +207,3 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
-
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
-
-You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-### Code of Conduct
-
-When participating in discussions and contributing to the project roadmap, we kindly ask you to adhere to our Code of Conduct. The Code of Conduct outlines the expected behavior and ensures a safe and inclusive environment for all participants. It promotes respect, open-mindedness, and professionalism.
-
-You can find our Code of Conduct in the repository's root directory or by visiting CODE_OF_CONDUCT.md.
-
-Conclusion
-Thank you for your interest in contributing to our project roadmap using GitHub Issues. Your contributions and feedback play a crucial role in shaping the future direction of the project. By following this guide, you can effectively collaborate with the community and help us achieve our shared goals.
-
-Happy contributing!
