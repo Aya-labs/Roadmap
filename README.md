@@ -1,1 +1,1 @@
-## Ayalabs
+## AyaHQ
